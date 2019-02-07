@@ -3399,10 +3399,25 @@ body {
 .cid-rfk5LG4fva .mbr-section-btn {
   text-align: center;
 }
+.cid-rhpmXC13jF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #ffffff, #52af8f);
+}
+.cid-rhpmXC13jF .mbr-iconfont-social {
+  font-size: 32px;
+  color: #52af8f;
+}
+.cid-rhpmXC13jF .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rhpmXC13jF H2 {
+  color: #232323;
+}
 .cid-rh1Ar8KfEX {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-rh1Ar8KfEX .mbr-section-subtitle {
   color: #767676;
@@ -3442,7 +3457,7 @@ body {
 .cid-rh1AOsAEkB {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-rh1AOsAEkB .mbr-section-subtitle {
   color: #767676;
@@ -3479,7 +3494,7 @@ body {
 .cid-rh1CDL8PpE {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-rh1CDL8PpE .mbr-section-subtitle {
   color: #767676;
@@ -3514,12 +3529,12 @@ body {
   font-size: 17px;
 }
 .cid-rh1CDL8PpE .team-item .item-caption {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-rh1CQdDngg {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-rh1CQdDngg .mbr-section-subtitle {
   color: #767676;
@@ -3554,7 +3569,7 @@ body {
   font-size: 17px;
 }
 .cid-rh1CQdDngg .team-item .item-caption {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-rfkewy4N1W {
   padding-top: 30px;
