@@ -3299,6 +3299,9 @@
                 "width": "100% !important",
                 "height": "auto !important"
               }
+            },
+            ".mbr-text P": {
+              "color": "#ffffff"
             }
           },
           "_name": "testimonials1",
