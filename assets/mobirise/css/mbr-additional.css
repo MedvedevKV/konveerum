@@ -3413,53 +3413,56 @@ body {
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rDP9BvwwCk {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
-}
-.cid-rDP9BvwwCk H2 {
-  color: #2e2e2e;
-}
-.cid-rDP9AZR0Ty {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
-}
-.cid-rDP9AZR0Ty .card-img {
-  background-color: #fff;
-}
-.cid-rDP9AZR0Ty .card-box {
-  padding: 2rem;
+.cid-rINHbaIiGt {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rDP9AZR0Ty h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+.cid-rINHbaIiGt .mbr-section-subtitle {
+  color: #767676;
+  text-align: right;
+  font-weight: 300;
 }
-.cid-rDP9AZR0Ty p {
-  text-align: left;
+.cid-rINHbaIiGt .step {
+  width: 72px;
+  height: 72px;
+  font-size: 36px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+  padding-bottom: 0;
 }
-.cid-rDP9AZR0Ty .mbr-text {
-  color: #2e2e2e;
-}
-.cid-rDP9AZR0Ty .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rDP9AZR0Ty .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-rDP9AZR0Ty .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
+@media (min-width: 768px) {
+  .cid-rINHbaIiGt .separline .step-wrapper {
+    position: relative;
   }
+  .cid-rINHbaIiGt .separline .step-wrapper:before,
+  .cid-rINHbaIiGt .separline .step-wrapper:after {
+    top: 38px;
+    position: absolute;
+    content: "";
+    height: 2px;
+    width: calc(50% + 15px - 36px - 8px);
+    background-color: #efefef;
+  }
+  .cid-rINHbaIiGt .separline .step-wrapper:before {
+    left: -15px;
+  }
+  .cid-rINHbaIiGt .separline .step-wrapper:after {
+    left: calc(50% + 8px + 36px);
+  }
+  .cid-rINHbaIiGt .separline.last-child .step-wrapper:after,
+  .cid-rINHbaIiGt .separline:nth-child(3n) .step-wrapper:after,
+  .cid-rINHbaIiGt .separline:nth-child(3n+1) .step-wrapper:before {
+    background: none;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rINHbaIiGt .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-rINHbaIiGt .mbr-section-title {
+  text-align: right;
 }
 .cid-rDP9AwaiLt {
   padding-top: 45px;
