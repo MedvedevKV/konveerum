@@ -4075,8 +4075,8 @@ section.lazy-placeholder:after {
 }
 .cid-rWlkSzRj7S {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-bottom: 15px;
+  background-color: #cccccc;
 }
 .cid-rWlkSzRj7S .mbr-section-subtitle {
   color: #767676;
@@ -4109,9 +4109,6 @@ section.lazy-placeholder:after {
 .cid-rWlkSzRj7S .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
-}
-.cid-rWlkSzRj7S .team-item .item-caption {
-  background: #efefef;
 }
 .cid-rPxxwPphmJ {
   padding-top: 30px;
