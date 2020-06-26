@@ -2812,32 +2812,32 @@ section.lazy-placeholder:after {
 .cid-s2CgR3x5s8 .card-title {
   color: #232323;
 }
-.cid-rZG6QLBJrY {
+.cid-s2D8ehT8Mq {
   padding-top: 75px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
-.cid-rZG6QLBJrY .card-img {
+.cid-s2D8ehT8Mq .card-img {
   position: relative;
   overflow: hidden;
   max-heigth: 50px;
   width: 150px;
 }
-.cid-rZG6QLBJrY .btn-col {
+.cid-s2D8ehT8Mq .btn-col {
   margin: auto;
 }
-.cid-rZG6QLBJrY .btn-col .btn {
+.cid-s2D8ehT8Mq .btn-col .btn {
   margin: 0.4rem;
   max-width: 150px;
   padding: 1.8rem 0.8rem;
 }
-.cid-rZG6QLBJrY .line {
+.cid-s2D8ehT8Mq .line {
   width: 35px;
   height: 3px;
   display: inline-block;
   background: #f1894c;
 }
-.cid-rZG6QLBJrY .card-img:before {
+.cid-s2D8ehT8Mq .card-img:before {
   content: '';
   display: block;
   position: absolute;
@@ -2853,38 +2853,38 @@ section.lazy-placeholder:after {
   transform-style: flat;
   transition: transform 0.5s ease-in-out, opacity 0.2s ease-in-out;
 }
-.cid-rZG6QLBJrY .card-box {
+.cid-s2D8ehT8Mq .card-box {
   padding: 3rem 2.2rem;
   background-color: #ffffff;
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
 }
-.cid-rZG6QLBJrY .card-box h3 {
+.cid-s2D8ehT8Mq .card-box h3 {
   font-weight: 600;
   width: 100%;
   display: inline-block;
   margin: 0;
 }
-.cid-rZG6QLBJrY .card-wrapper {
+.cid-s2D8ehT8Mq .card-wrapper {
   height: 100%;
 }
-.cid-rZG6QLBJrY .card-wrapper:hover .card-img:before {
+.cid-s2D8ehT8Mq .card-wrapper:hover .card-img:before {
   opacity: 0.3;
   transform: perspective(100px) rotateY(0deg);
 }
-.cid-rZG6QLBJrY .card-wrapper:hover .card-title a {
+.cid-s2D8ehT8Mq .card-wrapper:hover .card-title a {
   color: #52af8f !important;
 }
-.cid-rZG6QLBJrY .text {
+.cid-s2D8ehT8Mq .text {
   color: #767676;
 }
-.cid-rZG6QLBJrY .card-title {
+.cid-s2D8ehT8Mq .card-title {
   color: #36404c;
 }
-.cid-rZG6QLBJrY H3 {
+.cid-s2D8ehT8Mq H3 {
   color: #36404c;
 }
 @media (max-width: 767px) {
-  .cid-rZG6QLBJrY .btn-col .btn {
+  .cid-s2D8ehT8Mq .btn-col .btn {
     margin-top: 2rem;
     max-width: 10%;
     padding: 0.8rem 0.8rem;
