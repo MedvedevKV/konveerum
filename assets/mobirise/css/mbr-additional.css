@@ -4195,32 +4195,32 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #767676;
 }
-.cid-s7ZTLRru4M {
+.cid-scBi9gP4dw {
   padding-top: 75px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
-.cid-s7ZTLRru4M .card-img {
+.cid-scBi9gP4dw .card-img {
   position: relative;
   overflow: hidden;
   max-heigth: 50px;
   width: 150px;
 }
-.cid-s7ZTLRru4M .btn-col {
+.cid-scBi9gP4dw .btn-col {
   margin: auto;
 }
-.cid-s7ZTLRru4M .btn-col .btn {
+.cid-scBi9gP4dw .btn-col .btn {
   margin: 0.4rem;
   max-width: 150px;
   padding: 1.8rem 0.8rem;
 }
-.cid-s7ZTLRru4M .line {
+.cid-scBi9gP4dw .line {
   width: 35px;
   height: 3px;
   display: inline-block;
   background: #f1894c;
 }
-.cid-s7ZTLRru4M .card-img:before {
+.cid-scBi9gP4dw .card-img:before {
   content: '';
   display: block;
   position: absolute;
@@ -4236,38 +4236,38 @@ section.lazy-placeholder:after {
   transform-style: flat;
   transition: transform 0.5s ease-in-out, opacity 0.2s ease-in-out;
 }
-.cid-s7ZTLRru4M .card-box {
+.cid-scBi9gP4dw .card-box {
   padding: 3rem 2.2rem;
   background-color: #ffffff;
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
 }
-.cid-s7ZTLRru4M .card-box h3 {
+.cid-scBi9gP4dw .card-box h3 {
   font-weight: 600;
   width: 100%;
   display: inline-block;
   margin: 0;
 }
-.cid-s7ZTLRru4M .card-wrapper {
+.cid-scBi9gP4dw .card-wrapper {
   height: 100%;
 }
-.cid-s7ZTLRru4M .card-wrapper:hover .card-img:before {
+.cid-scBi9gP4dw .card-wrapper:hover .card-img:before {
   opacity: 0.3;
   transform: perspective(100px) rotateY(0deg);
 }
-.cid-s7ZTLRru4M .card-wrapper:hover .card-title a {
+.cid-scBi9gP4dw .card-wrapper:hover .card-title a {
   color: #52af8f !important;
 }
-.cid-s7ZTLRru4M .text {
+.cid-scBi9gP4dw .text {
   color: #767676;
 }
-.cid-s7ZTLRru4M .card-title {
+.cid-scBi9gP4dw .card-title {
   color: #36404c;
 }
-.cid-s7ZTLRru4M H3 {
+.cid-scBi9gP4dw H3 {
   color: #36404c;
 }
 @media (max-width: 767px) {
-  .cid-s7ZTLRru4M .btn-col .btn {
+  .cid-scBi9gP4dw .btn-col .btn {
     margin-top: 2rem;
     max-width: 10%;
     padding: 0.8rem 0.8rem;
