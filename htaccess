@@ -6,20 +6,16 @@ DirectoryIndex page19960726.html
 RewriteEngine On
 
 RewriteCond %{HTTP:X-Forwarded-Proto} =http
-RewriteRule ^(.*)$ https://konveerum\.ru/$1 [R=301,L]
-
-RewriteCond %{HTTP:X-Forwarded-Proto} =https
-RewriteCond %{HTTP_HOST} ^www\.konveerum.ru [NC]
-RewriteRule ^(.*)$ https://konveerum\.ru/$1 [R=301,L]
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} /robots.txt
 RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
 RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
-RewriteRule ^events$ page19958733.html [NC]
-RewriteRule ^events/$ page19958733.html [NC]
-
 RewriteRule ^contacts$ page20058369.html [NC]
 RewriteRule ^contacts/$ page20058369.html [NC]
+
+RewriteRule ^events$ page31894370.html [NC]
+RewriteRule ^events/$ page31894370.html [NC]
 
 RewriteRule ^members/ ma_start.html [NC]
 
